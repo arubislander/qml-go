@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/nanu-c/qml-go"
+	"github.com/manland/qml-go"
 	"os"
 )
 

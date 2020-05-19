@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/nanu-c/qml-go"
-	"github.com/nanu-c/qml-go/gl/2.0"
+	"github.com/manland/qml-go"
+	"github.com/manland/qml-go/gl/2.0"
 	"os"
 )
 

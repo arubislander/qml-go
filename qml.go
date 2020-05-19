@@ -9,7 +9,7 @@ import "C"
 import (
 	"errors"
 	"fmt"
-	"github.com/nanu-c/qml-go/gl/glbase"
+	"github.com/manland/qml-go/gl/glbase"
 	"image"
 	"image/color"
 	"io"
